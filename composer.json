@@ -1,0 +1,12 @@
+{
+    "name": "root/underscore",
+    "authors": [
+        {
+            "name": "山口将平",
+            "email": "shouhei.yamaguchi.be@gmail.com"
+        }
+    ],
+    "require": {
+        "anahkiasen/underscore-php": "dev-master"
+    }
+}
